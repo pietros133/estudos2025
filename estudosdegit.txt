@@ -1,3 +1,7 @@
 git init - inicia o git
 git status - verifica status do git (Rodando,Arquivos)
 git add - adiciona arquivos 
+git add . - adiciona todos os arquivos
+git commit -m "initial commit"
+git push - enviar para o github
+branch  -  version
