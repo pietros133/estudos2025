@@ -1,7 +1,23 @@
+// Basico
+
 git init - inicia o git
 git status - verifica status do git (Rodando,Arquivos)
 git add - adiciona arquivos 
 git add . - adiciona todos os arquivos
 git commit -m "initial commit"
 git push - enviar para o github
-branch  -  version
+git reflog - exibe o historio de alterações
+
+// Avançado
+
+git reset --hard + id  - Navegar entre versões
+/*
+branch - ramificações 
+branch master - codigo certo
+*/
+
+git branch - exibe as branchs
+git branch + any name - cria uma nova branch
+
+git checkout branchname - muda a branch
+
