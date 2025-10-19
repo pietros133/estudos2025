@@ -29,3 +29,13 @@ git pull
 git merge
 git push
 
+// Pull request - solicitação de aprovação
+
+
+git push
+
+
+// git ignore - arquivo destinado a arquivos que não devem subir para o fluxo principal
+
+
+
