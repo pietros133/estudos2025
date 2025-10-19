@@ -22,4 +22,10 @@ git branch + any name - cria uma nova branch
 git checkout branchname - muda a branch
 
 // merge
+git pull
+gera branch
+git checkout principal branch
+git pull
+git merge
+git push
 
